@@ -1,10 +1,10 @@
 # alx-higher_level_programming ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/74524768-7b3e-407a-ab41-f0dcc26eb75b)![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/116d6e0e-9931-4ee1-8d56-8a4c6dd6680b)
 
-**Python programing code and scripting**
+#**Python programing code and scripting**
 
 ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/f246cf6c-045e-4846-b256-91d53ab3ad70)
 
-Technologies
+#**Technologies**
 Shell Scripts are written in Bash 4.3.11(1)
 Python Scripts are written with Python 3.4.3
 MySQL 5.7 (version 5.7.8-rc)
@@ -13,10 +13,10 @@ sqlalchemy, version 1.2.5
 Ubuntu 20.04 LTS
 ********************************************************************************************************************************
 
-**This is python project with ALX(Holberton school)  all the codes are compute by Michael Temitope Afolabi**
+#**This is python project with ALX(Holberton school)  all the codes are compute by Michael Temitope Afolabi**
 
 *********************************************************************************************************************************
-**Learning Objectives**
+#**Learning Objectives**
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 General
@@ -32,7 +32,7 @@ What are indexing and slicing in Python
 What is the official Python coding style and how to check your code with pycodestyle
 **************************************************************************************************************************************
 
-**The Python Tutorial** 
+#**The Python Tutorial** 
 
 Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
@@ -42,17 +42,8 @@ Python is an easy to learn, powerful programming language. It has efficient high
 ***************************************************************************************************************************************
 
 
-Disassembler for Python bytecode
-Source code: Lib/dis.py
 
-The dis module supports the analysis of CPython bytecode by disassembling it. The CPython bytecode which this module takes as an input is defined in the file Include/opcode.h and used by the compiler and the interpreter.
-
-CPython implementation detail: Bytecode is an implementation detail of the CPython interpreter. No guarantees are made that bytecode will not be added, removed, or changed between versions of Python. Use of this module should not be considered to work across Python VMs or Python releases.
-
-Example: Given the function myfunc():
-
-*****************************************************************************************************************************************
-Projects
+#$**Projects**
 All of the following folders are projects done during the studies:
 
 Project name                                                            	Description
