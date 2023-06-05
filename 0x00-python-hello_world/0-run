@@ -1,3 +1,2 @@
 #!/bin/bash
-python3 $PYFILE
-
+print("Michael is a good guy\n")
