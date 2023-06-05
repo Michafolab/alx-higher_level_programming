@@ -1,4 +1,4 @@
-# alx-higher_level_programming ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/74524768-7b3e-407a-ab41-f0dcc26eb75b)
+# alx-higher_level_programming ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/74524768-7b3e-407a-ab41-f0dcc26eb75b)![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/116d6e0e-9931-4ee1-8d56-8a4c6dd6680b)
 
 **Python programing code and scripting**
 
@@ -12,7 +12,8 @@ MySQLdb, version 1.3.10
 sqlalchemy, version 1.2.5
 Ubuntu 20.04 LTS
 ********************************************************************************************************************************
-**This is python project with ALX(Halberton school)  all the codes are compute by Michaeel Temitop Afolabi**
+
+**This is python project with ALX(Holberton school)  all the codes are compute by Michael Temitope Afolabi**
 
 *********************************************************************************************************************************
 **Learning Objectives**
@@ -31,7 +32,7 @@ What are indexing and slicing in Python
 What is the official Python coding style and how to check your code with pycodestyle
 **************************************************************************************************************************************
 
-**The Python Tutorial** ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/116d6e0e-9931-4ee1-8d56-8a4c6dd6680b)
+**The Python Tutorial** 
 
 Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
