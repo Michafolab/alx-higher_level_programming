@@ -1,4 +1,6 @@
-If/else, loops, functions
+**If/else, loops, functions** ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/d402706a-039c-4f43-a1ac-30dc21d01743)![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/d51e0294-9558-429b-bb80-3540b0d7e701)
+
+
 
 **********************************************************************************************************************************************
 
@@ -89,3 +91,4 @@ Filename	                                                     Description
 
 
 102-magic_calculation.py                                 	Function that does exactly the same as a given Python bytecode
+
