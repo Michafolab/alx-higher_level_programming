@@ -1,11 +1,13 @@
- PYTHON - Import & modules
+** PYTHON - Import & modules** ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/32f9af95-d97b-4c3d-a952-203497565203) ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/7fd8a45e-3e5c-40ce-a10e-7dd07bb6efd0)
 
 
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn how to import functions, how to create modules and how to use command line arguments in Python.
+
+
+Project done during Full Stack Software Engineering studies at ALX AFRICA (Holberton School). It aims to learn how to import functions, how to create modules and how to use command line arguments in Python.
 
 
 ****************************************************************************************************************************************************
-Technologies
+**Technologies**
 
 Shell Scripts are written in Bash 4.3.11(1)
 
@@ -21,10 +23,10 @@ Tested on Ubuntu 14.04 LTS
 ***************************************************************************************************************************************************
 
 
-Files
+**Files**
 
 
-Filename                                     	Description
+**Filename                                     	Description**
 
 
 0-add.py	                              Imports a function from the file add_0.py and prints the result
@@ -55,3 +57,5 @@ Tested on Ubuntu 14.04 LTS
 
 
 103-fast_alphabet.py                    	Prints the alphabet in uppercase, followed by a new line
+
+
