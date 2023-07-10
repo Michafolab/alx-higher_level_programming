@@ -1,5 +1,5 @@
 **Inheritance**
-![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/271edeb6-b70a-4044-88f9-670510a51814)
+
 
 ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/f0fe4cb4-c02e-41e2-b7cc-592afc8e37ec)
 ![image](https://github.com/Michafolab/alx-higher_level_programming/assets/117805721/f1094e87-4fab-429e-a47c-8819cb2b1d26)
