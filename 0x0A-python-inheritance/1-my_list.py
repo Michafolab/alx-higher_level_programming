@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-file: 1-mi_list.py
+file: 1-my_list.py
 Class:
 -> MyList
 """
