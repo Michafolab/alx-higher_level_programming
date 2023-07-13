@@ -1,15 +1,24 @@
 #!/usr/bin/python3
+"""
+file: 10-square.py
+Class:
+-> Rectangle(BaseGeometry)
+-> Square(Rectangle)
+"""
+
+
 Rectangle = __import__('9-rectangle').Rectangle
 
 
 class Square(Rectangle):
-    """ Class that defines a Square from Rectangle class """
+    """ Square that inherits from Rectangle """
+
     def __init__(self, size):
-        """ Method that initializes a Square """
-        self.integer_validator("size", size)
-        self.__size = size
-        super().__init__(self.__size, self.__size)
+        """ Constructor method """
+        if self.integer_validator('size', size):
+            self.__size = size
+        super().__init__(size, size)
 
     def area(self):
-        """ Method that returns a string with the area """
+        """ Returns area """
         return super().area()
