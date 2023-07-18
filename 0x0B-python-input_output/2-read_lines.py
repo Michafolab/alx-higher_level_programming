@@ -1,20 +1,28 @@
 #!/usr/bin/python3
-"""
-files: 2-read_lines.py
-functions:
--> read_lines
+""" Module that contains a function that reads n lines of a text file
 """
 
 
 def read_lines(filename="", nb_lines=0):
-    """ reads n lines of a text file and prints it to stdout """
+    """ Function that reads from a file and prints its number of lines
 
-    with open(filename, 'r', encoding="utf-8") as file:
-        lines = file.readlines()
-        if nb_lines <= 0 or nb_lines >= len(lines):
-            for line in lines:
-                print(line, end='')
+    Args:
+        filename: filename
+        nb_lines: number of lines to print
+
+    Raises
+        Exception: when the file can be opened
+
+    """
+
+    with open(filename, 'r', encoding="utf-8") as f:
+        if nb_lines <= 0:
+            read_data = f.read()
+            print(read_data, end='')
         else:
-            lines = lines[0:nb_lines]
-            for line in lines:
+            n_lines = 0
+            for line in f:
                 print(line, end='')
+                n_lines += 1
+                if n_lines == nb_lines:
+                    break
